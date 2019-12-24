@@ -1,0 +1,1 @@
+{"output_file": "C:\\git\\Will\\CSV_Editing_Python\\Plaso_CSV_parsing_V2\\test.csv", "input_path": "C:\\git\\Will\\CSV_Editing_Python\\Plaso_CSV_parsing_V2\\fileforjake.csv", "sql": false, "output": "C:\\git\\Will\\CSV_Editing_Python\\Plaso_CSV_parsing_V2", "output_path": "C:\\git\\Will\\CSV_Editing_Python\\Plaso_CSV_parsing_V2\\test.csv", "output_filename": "test.csv"}
